@@ -195,6 +195,7 @@ The questions that needed answering are below:
 4.	Weekly Engagement Per Device: Measure the activeness of users on a weekly basis per device.
 5.	Email Engagement Analysis: Analyse how users are engaging with the email service. (Email Engagement Metrics)
 
+_**For the SQL Statements, you can check the ‘SQL Statements.sql’ file or view the SQL Statements and Output in the ‘Operation & Metric Analysis.pdf’ file.**_
 
 
 ## Project Impact 
