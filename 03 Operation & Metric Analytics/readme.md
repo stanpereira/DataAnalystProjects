@@ -180,4 +180,27 @@ The Software and Version Utilized for the project:
 - Microsoft 365 Online Excel Version 16.0.17012.41002 (For Data Analysis and Visualisation)
 
 ## Insights 
+The questions that needed answering are below:
+
+**Case Study 1**
+1.	**Jobs Reviewed Over Time:** Calculate the number of jobs reviewed per hour for each day in November 2020.
+2.	**Throughput Analysis:** Calculate the 7-day rolling average of throughput (number of events per second). Additionally, explain whether you prefer using the daily metric or the 7-day rolling average for throughput, and why.
+3.	**Language Share Analysis:** Calculate the percentage share of each language in the last 30 days.
+4.	**Duplicate Rows Detection:** Identify duplicate rows in the data.
+
+**Case Study 2**
+1.	Weekly User Engagement: Measure the activeness of users on a weekly basis. (Weekly User Engagement)
+2.	User Growth Analysis: Analyse the growth of users over time for a product.
+3.	Weekly Retention Analysis: Analyse the retention of users on a weekly basis after signing up for a product. (Cohort Analysis)
+4.	Weekly Engagement Per Device: Measure the activeness of users on a weekly basis per device.
+5.	Email Engagement Analysis: Analyse how users are engaging with the email service. (Email Engagement Metrics)
+
+
+
+## Project Impact 
+The project allowed me to advance my SQL skills through research and further learning. It has also allowed me to provide valuable insights based on the given data. 
+
+The project was a great learning experience as I was able to research new concepts in SQL, Excel and Data Visualisation. I also gained hands on experience in a real-world project. This project allowed me to learn new business concepts related to various metrics.
+
+This insight gained from the data will help improve the company's operations and understand sudden changes in key metrics.
 
