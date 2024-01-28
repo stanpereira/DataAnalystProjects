@@ -2,24 +2,6 @@ CREATE DATABASE project3;
 
 USE project3;
 
-#if needed
-#add new records to csv files
-insert into job_data
-values('2020/11/24', '19', '1001', 'transfer', 'Italian', '5', 'C'), 
-	('2020/11/24', '18', '1000', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/24', '17', '0999', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/24', '16', '0998', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/24', '15', '0997', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/23', '19', '0996', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/23', '13', '1000', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/23', '19', '1001', 'transfer', 'Italian', '9', 'C'),
-    ('2020/11/23', '11', '0993', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/23', '10', '0992', 'transfer', 'Italian', '5', 'C'),
-    ('2020/11/23', '10', '0992', 'transfer', 'Italian', '5', 'C');
-
-delete from job_data
-where cast(ds as date)<='2020/11/24';
-
 /*job_id: Unique identifier of jobs
 actor_id: Unique identifier of actor
 event: The type of event (decision/skip/transfer).
@@ -40,7 +22,7 @@ CREATE TABLE job_data (
     org VARCHAR(100)
 );
 
-drop table job_data;
+#drop table job_data;
 
 SHOW VARIABLES LIKE 'secure_file_priv';
 #'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\'
