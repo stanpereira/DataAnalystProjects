@@ -38,7 +38,7 @@ The questions that needed answering are below:
 1)	User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
 2)	Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
 
-_**For the SQL Statements, you can check the ‘SQL Statements.sql’ file or view the SQL Statements and Output in the ‘Instagram User Analytics.ppt’ file.**_
+_**For the SQL Statements, you can check the ‘SQL Statements.sql’ file or view the SQL Statements and Output in the ‘Instagram User Analytics.pdf’ file.**_
 
 ## Project Impact 
 - This was a learning project and it allowed me to learn the fundamentals of SQL and its working. It has also shown me how to use it to extract various insights for data analysis.
