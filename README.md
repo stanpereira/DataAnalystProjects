@@ -1,2 +1,6 @@
 # Data Analyst Projects
-List of PPT Files showcasing all the Data Analytics Projects done as assignments for Trainity
+List of Data Analyst Projects done as assignments for Trainity.
+
+It includes projects done using SQL and Excel.
+
+For a portfolio of all the projects, you can view the _**'Portfolio.pdf'**_ file.
