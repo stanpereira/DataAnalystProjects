@@ -1,5 +1,3 @@
-${\renewcommand{\familydefault}{\sfdefault}}
-
 # Data Analyst Projects
 This folder contains a list of Data Analyst Projects done as assignments using SQL and Excel. A brief of the projects are mentioned below :
 
