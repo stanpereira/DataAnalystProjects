@@ -27,3 +27,9 @@ This folder contains a list of Data Analyst Projects done as assignments. A brie
    ***(Tools Used : MS Excel)***
 
 For a portfolio of all the projects, you can view the [Data Analysis Portfolio](Data%20Analysis%20Portfolio.pdf) file.
+
+## Tableau Projects
+
+To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
+
+1. AirBnB NYC
