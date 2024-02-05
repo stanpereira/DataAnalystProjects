@@ -26,4 +26,4 @@ This folder contains a list of Data Analyst Projects done as assignments. A brie
 8. ABC Call Volume Trend Analysis - The project uses ${\color{red}Time \space Series \space Forecasting}$ to propose ${\color{red}Manpower \space Planning}$ in a Call Center.\
    ***(Tools Used : MS Excel)***
 
-For a portfolio of all the projects, you can view the [Data Analysis Portfolio](Data_Analysis_Portfolio.pdf) file.
+For a portfolio of all the projects, you can view the [Data Analysis Portfolio](Data%20Analysis%20Portfolio.pdf) file.
